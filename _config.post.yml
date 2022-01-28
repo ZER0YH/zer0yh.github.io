@@ -1,0 +1,73 @@
+widgets:
+    # Profile widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: profile
+        # Author name
+        author: 霖雨
+        # Author title
+        author_title: 憧憬是碎了满地凉凉的宝石
+        # Author's current location
+        location: Hangzhou,China
+        # URL or path to the avatar image
+        avatar: 'https://w.wallhaven.cc/full/v9/wallhaven-v9mk6l.jpg'
+        # Whether show the rounded avatar image
+        avatar_rounded: true
+        # Email address for the Gravatar
+        gravatar: 
+        # URL or path for the follow button
+        follow_link: 'https://github.com/ZER0YH'
+        # Links to be shown on the bottom of the profile widget
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: 'https://github.com/ZER0YH'
+            Zhihu:
+                icon: fab fa-zhihu
+                url: 'https://www.zhihu.com/people/xiao-lin-tong-xue-33-66'
+            # Facebook:
+                # icon: fab fa-facebook
+                # url: 'https://facebook.com'
+            Twitter:
+                icon: fab fa-twitter
+                url: 'https://twitter.com/LPl6fHJsAy30Jf9'
+            Sina weibo:
+                icon: fab fa-weibo
+                url: 'https://weibo.com/7212804928/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1'
+            # Dribbble:
+                # icon: fab fa-dribbble
+                # url: 'https://dribbble.com' 
+            # RSS:
+                # icon: fas fa-rss
+                # url: /
+    # Table of contents widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: toc
+        # Whether to show the index of each heading
+        index: true
+        # Whether to collapse sub-headings when they are out-of-view
+        collapsed: true
+        # Maximum level of headings to show (1-6)
+        depth: 3
+    # Recommendation links widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: links
+        # Names and URLs of the sites
+        links:
+            Hexo: 'https://hexo.io'
+            Bulma: 'https://bulma.io'
+    # Categories widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: categories
+    # Recent posts widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: recent_posts

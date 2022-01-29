@@ -14,7 +14,7 @@
   "dependencies": {
     "bulma-stylus": "^0.8.0",
     "hexo": "^5.0.0",
-    "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git",
+    "hexo-asset-image": "github:CodeFalling/hexo-asset-image",
     "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",

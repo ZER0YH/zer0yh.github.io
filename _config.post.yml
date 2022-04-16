@@ -11,7 +11,7 @@ widgets:
         # Author's current location
         location: Hangzhou,China
         # URL or path to the avatar image
-        avatar: 'https://w.wallhaven.cc/full/v9/wallhaven-v9mk6l.jpg'
+        avatar: 'https://wx4.sinaimg.cn/mw690/007S8c3mly1h1aygartw8j30zk0i0diy.jpg'
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
